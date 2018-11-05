@@ -1,6 +1,8 @@
 # Philips Hue Steuerung
 Ansteuerung von Philips Hue Geräten über REST-API mit Node.js
 
+Video Tutorial: https://www.youtube.com/watch?v=vG4fuEUO3I8
+
 ## Abhängigkeiten
 Diese Beispielimplementierung verwendet die Node.js Library [node-hue-api] von Peter Murray.
 
